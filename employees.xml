@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <employees>
+    <employee id="EMP-1001">
+      <name>Sarah Jenkins</name>
+      <department>Engineering</department>
+      <role>Lead Systems Architect</role>
+      <email>s.jenkins@enterprise.io</email>
+      <salary currency="USD">145000</salary>
+      <joiningDate>2021-03-15</joiningDate>
+      <status>Active</status>
+    </employee>
+    <employee id="EMP-1002">
+      <name>Michael Chang</name>
+      <department>Product Design</department>
+      <role>Senior UI/UX Designer</role>
+      <email>m.chang@enterprise.io</email>
+      <salary currency="USD">118000</salary>
+      <joiningDate>2022-01-10</joiningDate>
+      <status>Active</status>
+    </employee>
+    <employee id="EMP-1003">
+      <name>Priya Sharma</name>
+      <department>Data &amp; AI</department>
+      <role>Principal ML Engineer</role>
+      <email>p.sharma@enterprise.io</email>
+      <salary currency="USD">158000</salary>
+      <joiningDate>2020-08-24</joiningDate>
+      <status>Active</status>
+    </employee>
+    <employee id="EMP-1004">
+      <name>David Rodriguez</name>
+      <department>Cloud Operations</department>
+      <role>DevOps Specialist</role>
+      <email>d.rodriguez@enterprise.io</email>
+      <salary currency="USD">126000</salary>
+      <joiningDate>2022-06-18</joiningDate>
+      <status>On Leave</status>
+    </employee>
+    <employee id="EMP-1005">
+      <name>Elena Rostova</name>
+      <department>Cybersecurity</department>
+      <role>Security Operations Analyst</role>
+      <email>e.rostova@enterprise.io</email>
+      <salary currency="USD">132000</salary>
+      <joiningDate>2021-11-02</joiningDate>
+      <status>Active</status>
+    </employee>
+    <employee id="EMP-1006">
+      <name>Marcus Vance</name>
+      <department>Engineering</department>
+      <role>Full Stack Developer</role>
+      <email>m.vance@enterprise.io</email>
+      <salary currency="USD">108000</salary>
+      <joiningDate>2023-04-12</joiningDate>
+      <status>Active</status>
+    </employee>
+    <employee id="EMP-1007">
+      <name>Amina Al-Mansoor</name>
+      <department>Product Management</department>
+      <role>Technical Product Manager</role>
+      <email>a.almansoor@enterprise.io</email>
+      <salary currency="USD">139000</salary>
+      <joiningDate>2021-09-01</joiningDate>
+      <status>Active</status>
+    </employee>
+    <employee id="EMP-1008">
+      <name>Lucas Lindqvist</name>
+      <department>Quality Assurance</department>
+      <role>Automation QA Engineer</role>
+      <email>l.lindqvist@enterprise.io</email>
+      <salary currency="USD">98000</salary>
+      <joiningDate>2023-08-15</joiningDate>
+      <status>Probation</status>
+    </employee>
+  </employees>
+</company>
